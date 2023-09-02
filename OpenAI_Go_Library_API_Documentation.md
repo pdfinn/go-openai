@@ -8,14 +8,14 @@ This Go library provides a simple interface to interact with the OpenAI GPT-3 AP
 To include this package in your project, use `go get` to download it.
 
 ```bash
-go get -u github.com/pdfinn/go-openai
+go get -u github.com/pdfinn/go-openai/openai
 ```
 
 ## Usage
 
 ### Importing the Library
 ```go
-import "github.com/pdfinn/go-openai"
+import "github.com/pdfinn/go-openai/openai"
 ```
 
 ### Setting up the Configuration
